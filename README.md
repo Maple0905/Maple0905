@@ -21,11 +21,30 @@ As a fast learner and problem solver, I want to apply my software development sk
 </p>
 
 <h2>Specialised in:</h2>
-<p>- BlockChain - Web3, Dapp, NFT Marketplace
-<br>- DAO, DEX, Ethereum, Solidity, Smart Contract
-<br>- FrontEnd - React.js, React-Native, Vue.js, AngularJS
-<br>- BackEnd - Node, Express, Laravel, RoR
-<br>- AWS and MLOPS
+
+▲ Blockchain
+- Ethereum | Binance Smart Chain | Polygon | AVAX | Solana
+- DAO | DEX | NFT | Marketplace | Token | DeFi | P2E
+- Web3.js | Ether.js | useDapp | Solidity | Smart Contract | Truffle | Remix | HardHat | Moralis
+- Rust | Program | Metaplex | Candy Machine
+- IPFS | Arweave
+
+▲ Front End
+- React.js | Next.js | Vue | Angular | Redux | Vuex
+- HTML | CSS | BootStrap | Tailwind CSS | PHP | JavaScript | TypeScript | Python | Ruby
+- Socket
+
+▲ Back End & Service
+- Node.js | Express | Laravel | Django | Ruby on Rails
+- MySql | MongoDB | PostgreSQL | Firebase
+- Sequelize | Mongoose
+- GraphQL | Apollo
+- Git | SVN | NgInx
+
+- AWS | Lambda | CloudFront | EC2 | S3
+- NgInx | PM2
+<br>
+
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
