@@ -11,9 +11,11 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p> -->
 
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5400F7&width=435&lines=Wonderful+Techi!+Nothing+is+Impossible!;Full+Stack+Engineer+%7C+9%2B+years+of+engineering" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Wonderful%20Techi!%20;Nothing%2B%20is%20Impossible%20;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
 </p>
+
 
 ## About me:
 
