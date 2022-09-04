@@ -16,7 +16,8 @@
 ## About me:
 
 <p>
-Responsible for 10+ years of experience with various kinds of skills. Proved visionary leadership in many opportunities and launched 10+ huge projects including a high level of project management. Proficient in 7 years of Back-end development, 4 years of Front-end development. Relevant skills include Database management, Software architecture, Server management, Deployment management. Seeking a core developer position with Back-end/Front-end experiences, where my skills can be leveraged to develop, maintain and optimize the company’s product.
+As a senior software engineer, I have over 9 years of experience in solution design, architecture and application deployment for blockchain and web. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of build websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
+As a fast learner and problem solver, I want to apply my software development skills as a senior software engineer and I like to learn new technology.
 </p>
 
 <h2>Specialised in:</h2>
