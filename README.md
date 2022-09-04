@@ -12,7 +12,7 @@
     </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;10+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5400F7&width=435&lines=Wonderful+Techi!+Nothing+is+Impossible!;Full+Stack+Engineer+%7C+9%2B+years+of+engineering" alt="Typing SVG" /></a>
 </p>
 
 ## About me:
@@ -22,7 +22,7 @@ As a senior software engineer, I have over 9 years of experience in solution des
 As a fast learner and problem solver, I want to apply my software development skills as a senior software engineer and I like to learn new technology.
 </p>
 
-<h2>My Major Skill</h2>
+<h2>My Major Skills</h2>
 
 ▲ Blockchain : Ethereum | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
 
