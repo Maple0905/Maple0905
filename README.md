@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Nothing is Impossible! <img src="https://www.flaticon.com/free-icon/comic_5334932" width="35"></h1>
+<h1 align="center">Welcom! Nothing is Impossible!</h1>
 
 <h4 align='center'>
   Blockchain & Web | FullStack Engineer
@@ -22,29 +22,16 @@ As a senior software engineer, I have over 9 years of experience in solution des
 As a fast learner and problem solver, I want to apply my software development skills as a senior software engineer and I like to learn new technology.
 </p>
 
-<h2>Specialised in:</h2>
+<h2>My Major Skill</h2>
 
-▲ Blockchain
-- Ethereum | Binance Smart Chain | Polygon | AVAX | Solana
-- DAO | DEX | NFT | Marketplace | Token | DeFi | P2E
-- Web3.js | Ether.js | useDapp | Solidity | Smart Contract | Truffle | Remix | HardHat | Moralis
-- Rust | Program | Metaplex | Candy Machine
-- IPFS | Arweave
+▲ Blockchain : Ethereum | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
 
-▲ Front End
-- React.js | Next.js | Vue | Angular | Redux | Vuex
-- HTML | CSS | BootStrap | Tailwind CSS | PHP | JavaScript | TypeScript | Python | Ruby
-- Socket
+▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS
 
-▲ Back End & Service
-- Node.js | Express | Laravel | Django | Ruby on Rails
-- MySql | MongoDB | PostgreSQL | Firebase
-- Sequelize | Mongoose
-- GraphQL | Apollo
-- Git | SVN | NgInx
+▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails
 
-- AWS | Lambda | CloudFront | EC2 | S3
-- NgInx | PM2
+▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
+
 <br>
 
 <table>
