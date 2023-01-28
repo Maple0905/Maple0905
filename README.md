@@ -20,11 +20,13 @@
 ## About me:
 
 <p>
-As a senior software engineer, I have over 9 years of experience in solution design, architecture and application deployment for blockchain and web. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of build websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
+As a senior software engineer, I have over 9 years of experience in solution design, architecture and application deployment for blockchain and web. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
 As a fast learner and problem solver, I want to apply my software development skills as a senior software engineer and I like to learn new technology.
 </p>
 
 <h2>My Major Skills</h2>
+
+▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang
 
 ▲ Blockchain : Ethereum | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
 
